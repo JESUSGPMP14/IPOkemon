@@ -122,9 +122,9 @@ Correo Electrónico: [jesuusgpmp14.2002@gmail.com](mailto:jesuusgpmp14.2002@gmai
 
 ---
 
-[forks-shield]: https://img.shields.io/github/forks/JESUSGPMP14/EsiTube-Multimedia.svg?style=for-the-badge
-[forks-url]: https://github.com/JESUSGPMP14/EsiTube-Multimedia/network/members
-[stars-shield]: https://img.shields.io/github/stars/JESUSGPMP14/EsiTube-Multimedia.svg?style=for-the-badge
-[stars-url]: https://github.com/JESUSGPMP14/EsiTube-Multimedia/stargazers
-[issues-shield]: https://img.shields.io/github/issues/JESUSGPMP14/EsiTube-Multimedia.svg?style=for-the-badge
-[issues-url]: https://github.com/JESUSGPMP14/EsiTube-Multimedia/issues
+[forks-shield]: https://img.shields.io/github/forks/JESUSGPMP14/IPOkemon.svg?style=for-the-badge
+[forks-url]: https://github.com/JESUSGPMP14/IPOkemon/network/members
+[stars-shield]: https://img.shields.io/github/stars/JESUSGPMP14/IPOkemon.svg?style=for-the-badge
+[stars-url]: https://github.com/JESUSGPMP14/IPOkemon/stargazers
+[issues-shield]: https://img.shields.io/github/issues/JESUSGPMP14/IPOkemon.svg?style=for-the-badge
+[issues-url]: https://github.com/JESUSGPMP14/IPOkemon/issues
